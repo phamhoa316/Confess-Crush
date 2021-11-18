@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    titleWeb: "Hello bé iu",
+    introTitle: 'Nguyễn Minh Hằng',
+    introDesc: `Hihi còn chần chờ gì nữa mà không click vào bên dưới ngay thôi`,
+    btnIntro: 'Start',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnYes: 'Em cóo <33',
+    btnNo: 'Anh mơ à:3',
+    question: 'Tại sao em lại thích anhhh<3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    reply: 'Tại vì anh đẹp traii =)))',
+    mess: 'Anh biết mà, em có khen thừa hong ahihi
+Love u for',
+    messDesc: 'Em đã thích anh nhìu như thế thì hãy mau trả ảnh dzú di thoi.',
+    btnAccept: 'dạ  <3',
+    messLink: 'https://m.me/hoap.2004'
