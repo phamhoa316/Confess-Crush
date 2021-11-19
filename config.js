@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà, em có khen thừa hong ahihi
 Love u for',
     messDesc: 'Em đã thích anh nhìu như thế thì hãy mau trả ảnh dzú di thoi.',
-    btnAccept: 'dạ  <3',
+    btnAccept: 'dạ ',
     messLink: 'https://m.me/hoap.2004'
